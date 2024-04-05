@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConversion</string>
+    <string name="exchange_rates">Exchange Rates</string>
+    <string name="empty"></string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>

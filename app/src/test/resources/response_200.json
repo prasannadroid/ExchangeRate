@@ -1,0 +1,27 @@
+{
+  "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
+  "license": "https://openexchangerates.org/license",
+  "timestamp": 1709532000,
+  "base": "USD",
+  "rates": {
+    "AED": 3.673,
+    "AFN": 72.268373,
+    "ALL": 95.893506,
+    "AMD": 403.43185,
+    "ANG": 1.798684,
+    "AOA": 830.838,
+    "ARS": 840.374041,
+    "AUD": 1.534482,
+    "AWG": 1.8025,
+    "AZN": 1.7,
+    "BAM": 1.804219,
+    "BBD": 2,
+    "BDT": 109.537227,
+    "BGN": 1.804219,
+    "BHD": 0.376194,
+    "BIF": 2852.188516,
+    "BMD": 1,
+    "BND": 1.343708,
+    "BOB": 6.896997
+  }
+}
